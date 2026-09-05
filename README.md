@@ -5,6 +5,7 @@ https://leetcode.com/u/Fce87hY6UC/
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/debthetarnished05/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/debthetarnished05/leetcode/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/debthetarnished05/leetcode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/debthetarnished05/leetcode/tree/master/0196-delete-duplicate-emails) |
