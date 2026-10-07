@@ -54,6 +54,7 @@ https://leetcode.com/u/Fce87hY6UC/
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/debthetarnished05/leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/debthetarnished05/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ https://leetcode.com/u/Fce87hY6UC/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/debthetarnished05/leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/debthetarnished05/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -83,4 +85,8 @@ https://leetcode.com/u/Fce87hY6UC/
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/debthetarnished05/leetcode/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/debthetarnished05/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
