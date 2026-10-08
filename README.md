@@ -54,11 +54,13 @@ https://leetcode.com/u/Fce87hY6UC/
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/debthetarnished05/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/debthetarnished05/leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/debthetarnished05/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/debthetarnished05/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/debthetarnished05/leetcode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
